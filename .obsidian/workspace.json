@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "System Design/Dropbox/Dropbox.md"
+                "file": "Excalidraw/Dropbox.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Dropbox"
+              "title": "Dropbox.excalidraw"
             }
           }
         ]
@@ -69,7 +69,10 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
@@ -78,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.61459350585938
+    "width": 255.89999389648438
   },
   "right": {
     "id": "07cf2f102915984e",
@@ -180,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,35 +196,16 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "notebook-navigator:Notebook Navigator": false
     }
   },
   "active": "adead879b793fc71",
   "lastOpenFiles": [
-    "Work/Testing.md",
-    "Work/MCB-7 RCA.md",
-    "Work/MC-355360.md",
-    "Work/Linux.md",
-    "Work/!.md",
-    "System Design/Dropbox/Dropbox.md",
-    "Schedule.md",
-    "Excalidraw/Drawing 2026-09-11 22.21.12.excalidraw.md",
-    "Excalidraw/Drawing 2026-10-09 20.05.55.excalidraw.md",
-    "Pasted Image 20260911223722_003.png",
-    "Excalidraw/Drawing 2026-10-09 20.04.42.excalidraw.md",
-    "Excalidraw/Drawing 2026-10-08 15.02.26.excalidraw.md",
-    "Projects/AI Travel Planner.md",
-    "Projects/Bug Fixer.md",
-    "Projects/Distributed Worker Platform like Code Execution.md",
-    "System Design/Topics.md",
-    "Azure/02-03-2026.md",
-    "Amazon LPs.md",
-    "Work",
-    "LLD/LLD Questions.md",
-    "LLD/ParkingLot.md",
-    "LLD/How to approach LLD Problem.md",
-    "LLD/Vending Machine.md",
-    "LP Questions.md",
+    "Linux.md",
+    "Excalidraw/Dropbox.excalidraw.md",
+    "Testing.md",
+    "Untitled.base",
     "Excalidraw",
     "LLD/Library Management System.md",
     "LLD/Drawing 2026-06-14 15.39.24.excalidraw.md",
@@ -228,9 +213,10 @@
     "System Design/Topics?.md",
     "System Design/Dropbox",
     "Untitled.canvas",
-    "Azure",
-    "LLD",
-    "System Design",
-    "Projects"
+    "!.md",
+    "MC-355360.md",
+    "MCB-7 RCA.md",
+    "desktop.ini",
+    "Welcomefsldjflkdj.md"
   ]
 }

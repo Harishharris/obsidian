@@ -11,12 +11,14 @@
             "id": "adead879b793fc71",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Dropbox.excalidraw.md"
+                "file": "MCB-7 RCA.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Dropbox.excalidraw"
+              "icon": "lucide-file",
+              "title": "MCB-7 RCA"
             }
           }
         ]
@@ -81,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.89999389648438,
-    "collapsed": true
+    "width": 255.89999389648438
   },
   "right": {
     "id": "07cf2f102915984e",
@@ -184,7 +185,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,8 +204,8 @@
   },
   "active": "adead879b793fc71",
   "lastOpenFiles": [
-    "Linux.md",
     "Excalidraw/Dropbox.excalidraw.md",
+    "Linux.md",
     "Testing.md",
     "Untitled.base",
     "Excalidraw",

@@ -11,14 +11,12 @@
             "id": "8954e837eb3b1b1c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Work/Testing.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2026-09-11 22.21.12.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Testing"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-09-11 22.21.12.excalidraw"
             }
           }
         ]
@@ -197,8 +195,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b520890f0323884",
+  "active": "8954e837eb3b1b1c",
   "lastOpenFiles": [
+    "Work/Testing.md",
+    "Azure/02-03-2026.md",
     "Schedule.md",
     "Pasted Image 20260911223722_003.png",
     "Work/MCB-7 RCA.md",
@@ -207,7 +207,6 @@
     "Amazon LPs.md",
     "Work/!.md",
     "Work",
-    "Work/Testing.md",
     "Excalidraw/Drawing 2026-10-08 15.02.26.excalidraw.md",
     "LLD/LLD Questions.md",
     "LLD/ParkingLot.md",
@@ -216,7 +215,6 @@
     "LP Questions.md",
     "Excalidraw/Drawing 2026-09-11 22.21.12.excalidraw.md",
     "Excalidraw",
-    "Azure/02-03-2026.md",
     "LLD/Library Management System.md",
     "LLD/Drawing 2026-06-14 15.39.24.excalidraw.md",
     "Drawing 2026-06-14 15.34.49.excalidraw.md",

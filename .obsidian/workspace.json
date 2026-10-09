@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "System Design/Dropbox/Dropbox.md"
+                "file": "System Design/Dropbox/Dropbox.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Dropbox"
+              "title": "Dropbox.excalidraw"
             }
           }
         ]
@@ -183,8 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,18 +201,18 @@
   "active": "dcb65d36fcfce75c",
   "lastOpenFiles": [
     "System Design/Dropbox/Dropbox.md",
+    "System Design/Dropbox/Dropbox.excalidraw.md",
+    "Schedule.md",
     "Work/Testing.md",
     "Excalidraw/Drawing 2026-10-09 20.05.55.excalidraw.md",
     "Work/MCB-7 RCA.md",
     "Work/Linux.md",
     "Work/MC-355360.md",
-    "Excalidraw/Dropbox.excalidraw.md",
     "Work/!.md",
     "Work",
     "System Design/Topics.md",
     "System Design/Dropbox",
     "System Design",
-    "Schedule.md",
     "Projects/Bug Fixer.md",
     "Projects/Distributed Worker Platform like Code Execution.md",
     "Projects/AI Travel Planner.md",

@@ -27,5 +27,17 @@ Verified the following:
 
 
 # To Be Done
-## Global Settings
-entirety of global settings 
+## Global Settings (including all sub-sections)
+- AI Services
+- Android
+- Apple
+- Approval Requests
+- Branding
+- Console Settings
+- Device Settings
+- Enrollment
+- Logs and Alerts
+- MobiControl Services
+- Services
+- SOTI ONE
+- Windows

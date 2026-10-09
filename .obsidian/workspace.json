@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c46615c39d4e3202",
+        "id": "8d3643869973e58f",
         "type": "tabs",
         "children": [
           {
-            "id": "8954e837eb3b1b1c",
+            "id": "adead879b793fc71",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-09-11 22.21.12.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-09-11 22.21.12.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -180,7 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 388.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,40 +193,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8954e837eb3b1b1c",
+  "active": "e36dd80be5085f03",
   "lastOpenFiles": [
+    "Schedule.md",
+    "Excalidraw/Drawing 2026-09-11 22.21.12.excalidraw.md",
+    "Excalidraw/Drawing 2026-10-09 20.05.55.excalidraw.md",
+    "Pasted Image 20260911223722_003.png",
+    "Excalidraw/Drawing 2026-10-09 20.04.42.excalidraw.md",
+    "Excalidraw/Drawing 2026-10-08 15.02.26.excalidraw.md",
+    "Projects/AI Travel Planner.md",
+    "Projects/Bug Fixer.md",
+    "Projects/Distributed Worker Platform like Code Execution.md",
+    "System Design/Dropbox/Dropbox.md",
+    "System Design/Topics.md",
     "Work/Testing.md",
     "Azure/02-03-2026.md",
-    "Schedule.md",
-    "Pasted Image 20260911223722_003.png",
     "Work/MCB-7 RCA.md",
     "Work/MC-355360.md",
     "Work/Linux.md",
     "Amazon LPs.md",
     "Work/!.md",
     "Work",
-    "Excalidraw/Drawing 2026-10-08 15.02.26.excalidraw.md",
     "LLD/LLD Questions.md",
     "LLD/ParkingLot.md",
     "LLD/How to approach LLD Problem.md",
     "LLD/Vending Machine.md",
     "LP Questions.md",
-    "Excalidraw/Drawing 2026-09-11 22.21.12.excalidraw.md",
     "Excalidraw",
     "LLD/Library Management System.md",
     "LLD/Drawing 2026-06-14 15.39.24.excalidraw.md",
     "Drawing 2026-06-14 15.34.49.excalidraw.md",
-    "Projects/Bug Fixer.md",
-    "Projects/AI Travel Planner.md",
-    "System Design/Dropbox/Dropbox.md",
     "System Design/Topics?.md",
-    "Excalidraw/Drawing 2026-05-03 16.13.48.excalidraw.md",
     "System Design/Dropbox",
-    "System Design/Latency vs. Bandwidth.md",
     "Untitled.canvas",
     "Azure",
     "LLD",
-    "Projects/Distributed Worker Platform like Code Execution.md",
     "System Design",
     "Projects"
   ]

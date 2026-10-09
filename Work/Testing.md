@@ -13,7 +13,6 @@ Verified the following:
 ### Part 2 — [MC-343067](https://jira.soti.net/browse/MC-343067 "https://jira.soti.net/browse/mc-343067") (Executed on 11/Mar/26 by Priyanka Harikumar )
 
 Verified the following:
-
 - Group creation
 - Advanced configs — Custom Data, Remote Control Settings, Shared device
 - Device actions
@@ -29,5 +28,3 @@ Verified the following:
 
 # To Be Done
 ## Global Settings
-
-Hello there

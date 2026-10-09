@@ -11,10 +11,12 @@
             "id": "adead879b793fc71",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "System Design/Dropbox/Dropbox.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Dropbox"
             }
           }
         ]
@@ -193,8 +195,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e36dd80be5085f03",
+  "active": "adead879b793fc71",
   "lastOpenFiles": [
+    "Work/Testing.md",
+    "Work/MCB-7 RCA.md",
+    "Work/MC-355360.md",
+    "Work/Linux.md",
+    "Work/!.md",
+    "System Design/Dropbox/Dropbox.md",
     "Schedule.md",
     "Excalidraw/Drawing 2026-09-11 22.21.12.excalidraw.md",
     "Excalidraw/Drawing 2026-10-09 20.05.55.excalidraw.md",
@@ -204,15 +212,9 @@
     "Projects/AI Travel Planner.md",
     "Projects/Bug Fixer.md",
     "Projects/Distributed Worker Platform like Code Execution.md",
-    "System Design/Dropbox/Dropbox.md",
     "System Design/Topics.md",
-    "Work/Testing.md",
     "Azure/02-03-2026.md",
-    "Work/MCB-7 RCA.md",
-    "Work/MC-355360.md",
-    "Work/Linux.md",
     "Amazon LPs.md",
-    "Work/!.md",
     "Work",
     "LLD/LLD Questions.md",
     "LLD/ParkingLot.md",

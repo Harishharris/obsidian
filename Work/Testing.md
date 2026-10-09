@@ -28,3 +28,4 @@ Verified the following:
 
 # To Be Done
 ## Global Settings
+entirety of global settings 

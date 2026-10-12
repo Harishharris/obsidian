@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3ca89e51bfcff7ff",
+        "id": "5a833915faed4a2a",
         "type": "tabs",
         "children": [
           {
-            "id": "dcb65d36fcfce75c",
+            "id": "d0d54d4459f47a26",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "System Design/Dropbox/Dropbox.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Dropbox.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -198,7 +196,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dcb65d36fcfce75c",
+  "active": "b983a29351bdcc11",
   "lastOpenFiles": [
     "System Design/Dropbox/Dropbox.md",
     "System Design/Dropbox/Dropbox.excalidraw.md",

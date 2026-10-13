@@ -11,10 +11,12 @@
             "id": "d0d54d4459f47a26",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "System Design/Dropbox/Dropbox.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Dropbox.excalidraw"
             }
           }
         ]
@@ -196,7 +198,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b983a29351bdcc11",
+  "active": "d0d54d4459f47a26",
   "lastOpenFiles": [
     "System Design/Dropbox/Dropbox.md",
     "System Design/Dropbox/Dropbox.excalidraw.md",

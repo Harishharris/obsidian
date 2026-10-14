@@ -11,12 +11,14 @@
             "id": "d0d54d4459f47a26",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "System Design/Dropbox/Dropbox.excalidraw.md"
+                "file": "Work/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Dropbox.excalidraw"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -81,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.89999389648438
+    "width": 255.89999389648438,
+    "collapsed": true
   },
   "right": {
     "id": "f6808834b97dbe0e",
@@ -183,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.605712890625
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,8 +204,9 @@
   },
   "active": "d0d54d4459f47a26",
   "lastOpenFiles": [
-    "System Design/Dropbox/Dropbox.md",
     "System Design/Dropbox/Dropbox.excalidraw.md",
+    "Work/Untitled.md",
+    "System Design/Dropbox/Dropbox.md",
     "Schedule.md",
     "Work/Testing.md",
     "Excalidraw/Drawing 2026-10-09 20.05.55.excalidraw.md",
@@ -234,7 +239,6 @@
     "Excalidraw",
     "Untitled.canvas",
     "!.md",
-    "MC-355360.md",
     "desktop.ini"
   ]
 }

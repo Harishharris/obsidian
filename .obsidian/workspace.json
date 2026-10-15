@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Untitled.md",
+                "file": "System Design/Rate Limiter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Rate Limiter"
             }
           }
         ]
@@ -203,8 +203,9 @@
   },
   "active": "d0d54d4459f47a26",
   "lastOpenFiles": [
-    "System Design/Dropbox/Dropbox.excalidraw.md",
     "Work/Untitled.md",
+    "System Design/Rate Limiter.md",
+    "System Design/Dropbox/Dropbox.excalidraw.md",
     "System Design/Dropbox/Dropbox.md",
     "Schedule.md",
     "Work/Testing.md",
@@ -237,7 +238,6 @@
     "Untitled.base",
     "Excalidraw",
     "Untitled.canvas",
-    "!.md",
     "desktop.ini"
   ]
 }

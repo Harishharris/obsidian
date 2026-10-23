@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5a833915faed4a2a",
+        "id": "86a43b3eb960dc80",
         "type": "tabs",
         "children": [
           {
-            "id": "d0d54d4459f47a26",
+            "id": "3092a53d4e21eb3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/Rate Limiter.md",
+                "file": "Work/SOTI ONE APPS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rate Limiter"
+              "title": "SOTI ONE APPS"
             }
           }
         ]
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.89999389648438
+    "width": 255.89999389648438,
+    "collapsed": true
   },
   "right": {
     "id": "f6808834b97dbe0e",
@@ -201,10 +202,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d0d54d4459f47a26",
+  "active": "3092a53d4e21eb3c",
   "lastOpenFiles": [
-    "Work/Untitled.md",
+    "Work/SOTI ONE APPS.md",
     "System Design/Rate Limiter.md",
+    "Work/Untitled.md",
     "System Design/Dropbox/Dropbox.excalidraw.md",
     "System Design/Dropbox/Dropbox.md",
     "Schedule.md",
@@ -234,7 +236,6 @@
     "Amazon LPs.md",
     "MCB-7 RCA.md",
     "Linux.md",
-    "Testing.md",
     "Untitled.base",
     "Excalidraw",
     "Untitled.canvas",

@@ -442,3 +442,164 @@ json storage proposal -> have backbone, disagree & commit
 - Highest Standards
 - Working with senior engineers
 - Handling criticism
+
+----
+**OWNERSHIP**
+
+Tell me about a time when you went over and above your job responsibility in order to help the company.
+
+Tell me about a project where you took ownership of something outside your job description.
+
+Describe a time you disagreed with a decision made above you. What did you do? 
+
+Tell me about a time you took on a problem that wasn’t your responsibility.
+
+Your story: SOTI ONE Apps — new team, drove design, descoped, delivered.
+
+---
+
+**DELIVER RESULTS**
+
+Tell me about a time when you had two deadlines at the same time.
+
+Tell me about a time you faced significant obstacles to delivering a project.
+Tell me about a time you delivered a project under serious constraints.
+
+Tell me about a time you overcame a major obstacle to deliver on time.
+
+Your story: SOTI ONE Apps — one month deadline, new team, descoped SOTI Search.
+
+---
+
+**DIVE DEEP**
+
+Tell me about a project in which you had to deep dive into analysis.
+
+Tell me about a time you had to get into details outside your area of expertise.
+Tell me about a time you discovered a problem by looking at details others had missed.
+
+Your story: Linux enrollment bug — traced state machine, found datatype mismatch.
+
+---
+
+**ARE RIGHT A LOT**
+
+Tell me about a time your initial assessment turned out to be wrong. 
+
+Tell me about a time you disagreed with data you were given — how did you investigate?
+
+Tell me about a time you used data to make a decision.
+
+Tell me about a time you used data or detailed analysis to challenge an assumption.
+
+Your story: JSON storage proposal — identified DB-level problems, proposed normalized approach, validated by architecture team.
+
+---
+
+**HAVE BACKBONE / DISAGREE AND COMMIT**
+
+Tell me about a time you had a conflict with a coworker or manager and how you approached it.
+
+Give me an example of a time you disagreed with a decision but committed to it anyway.
+
+Tell me about a time you disagreed with your manager and what you did about it.
+
+Tell me about a time you held a position under significant pressure.
+
+Your story: Key Storage auth — disagreed with username/password, proposed installationID, committed to team decision.
+
+---
+
+**BIAS FOR ACTION**
+
+Tell me about a time you had to make an urgent decision without data. 
+
+Tell me about a time you took a calculated risk with incomplete information. 
+
+Tell me about a time you had to break a bottleneck to move a project forward.
+
+Your story: SOTI ONE Apps descoping — made the call with incomplete information, 2-day buffer validated the decision.
+
+---
+
+**EARN TRUST**
+
+Walk me through a time you had to earn trust with a sceptical stakeholder. 
+
+Tell me about a project that failed.
+
+Tell me about a time you received critical or negative feedback and what you did.
+
+Your story: Buddy story — KeyedServices migration, helped new joiners beyond assigned scope.
+
+---
+
+**LEARN AND BE CURIOUS**
+
+Tell me about a time you had to rapidly learn a new technology to deliver. 
+
+Tell me about a time you learned something outside your job scope that helped you at work.
+
+Your story: MS/DS architecture — check-in flow discovery, two types of check-ins, shaped implementation.
+
+---
+
+**INVENT AND SIMPLIFY**
+
+Tell me about a time you re-designed a process and why. 
+
+Tell me about a process you simplified that others thought was fine as-is. 
+
+Tell me about a time you found a simple solution to a complex problem. 
+
+Your story: Per-app processor framework — clean separation, extensible, OCP satisfied.
+
+---
+
+**CUSTOMER OBSESSION**
+
+Tell me about one of your projects where you put the customer first. 
+
+Tell me about a time you went above and beyond for a customer. 
+
+Your story: Key Storage — EU compliance, on-prem admin disaster recovery, no app tier dependency by design.
+
+---
+
+**THINK BIG**
+
+Tell me about your most significant accomplishment. 
+
+Tell me about a time you identified an opportunity nobody around you was seeing. 
+
+Low probability for SDE1. If asked — Key Storage EU compliance unlocking a new market is your strongest angle.
+
+---
+
+**Questions confirmed asked in actual BR rounds specifically:**
+
+Introduction and background discussion, then resume and project deep dive, then LP questions, then coding questions. 
+
+Brief introduction, background and current role discussion, experience-based questions, then coding problem. 
+
+Amazon asks some variant of “tell me about a time you failed” in nearly every loop. 
+
+Bar Raisers drill four or five levels into one story, asking for specifics, your exact contribution, data, and what you would do differently.
+
+---
+
+**The situational question confirmed appearing in 2025-2026 BR rounds:**
+
+“What would you do if a dependency team tells you they’ll be two weeks late right before launch?” — Your answer: SOTI ONE Apps descoping story. You’ve lived this exact scenario.
+
+---
+
+**The single most confirmed question across every source:**
+
+“Tell me about a time you disagreed with your manager or team and what happened” — asked in almost every Amazon loop.
+
+---
+
+**Three things BR is specifically writing down according to confirmed BR insiders:**
+
+Earn Trust, tested through your candor about failures and your treatment of others in conflict stories. Have Backbone; Disagree and Commit, often probed directly. And your exact individual contribution distinct from the team’s. 

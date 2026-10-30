@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.89999389648438
+    "width": 255.89999389648438,
+    "collapsed": true
   },
   "right": {
     "id": "f6808834b97dbe0e",
@@ -203,8 +204,9 @@
   },
   "active": "3092a53d4e21eb3c",
   "lastOpenFiles": [
-    "Schedule.md",
     "Amazon LPs.md",
+    "LP Questions.md",
+    "Schedule.md",
     "Work/SOTI ONE APPS.md",
     "System Design/Rate Limiter.md",
     "Work/Untitled.md",
@@ -225,7 +227,6 @@
     "Projects/AI Travel Planner.md",
     "Projects",
     "Pasted Image 20260911223722_003.png",
-    "LP Questions.md",
     "LLD/Vending Machine.md",
     "LLD/ParkingLot.md",
     "LLD/LLD Questions.md",

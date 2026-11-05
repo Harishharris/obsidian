@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "LP Questions"
             }
+          },
+          {
+            "id": "5a61ef57ac2adb9d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.15.0"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.15.0"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.89999389648438,
-    "collapsed": true
+    "width": 255.89999389648438
   },
   "right": {
     "id": "f6808834b97dbe0e",
@@ -202,7 +214,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3092a53d4e21eb3c",
+  "active": "5a61ef57ac2adb9d",
   "lastOpenFiles": [
     "Amazon LPs.md",
     "LP Questions.md",

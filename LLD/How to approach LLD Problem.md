@@ -1,4 +1,4 @@
-
+ 
 1. Clarify requirements
 2. Identify entities (core objects)
 	- Anything that has state + behaviour

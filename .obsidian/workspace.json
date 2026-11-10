@@ -25,12 +25,14 @@
             "id": "5a61ef57ac2adb9d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.15.0"
+                "file": "LLD/How to approach LLD Problem.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.15.0"
+              "icon": "lucide-file",
+              "title": "How to approach LLD Problem"
             }
           }
         ],

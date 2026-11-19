@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "adf3887f6dd2af3c",
+        "id": "6f5169b159dd8268",
         "type": "tabs",
         "children": [
           {
-            "id": "e3522145cc4bf61a",
+            "id": "155b0eee8c7c03fc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "System Design/ticketmaster.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "ticketmaster.excalidraw"
             }
           }
         ]
@@ -197,8 +199,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b983a29351bdcc11",
+  "active": "155b0eee8c7c03fc",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-11-19 14.06.18.excalidraw.md",
+    "System Design/ticketmaster.excalidraw.md",
+    "Excalidraw/Drawing 2026-10-09 20.05.55.excalidraw.md",
+    "Excalidraw/Drawing 2026-09-11 22.21.12.excalidraw.md",
+    "System Design/Untitled.md",
     "System Design/Rate Limiter.md",
     "LLD/How to approach LLD Problem.md",
     "System Design/Dropbox/Dropbox.excalidraw.md",
@@ -210,7 +217,6 @@
     "Work/Untitled.md",
     "System Design/Dropbox/Dropbox.md",
     "Work/Testing.md",
-    "Excalidraw/Drawing 2026-10-09 20.05.55.excalidraw.md",
     "Work/MCB-7 RCA.md",
     "Work/Linux.md",
     "Work/MC-355360.md",
@@ -226,11 +232,7 @@
     "Pasted Image 20260911223722_003.png",
     "LLD/Vending Machine.md",
     "LLD/LLD Questions.md",
-    "LLD/Library Management System.md",
     "LLD",
-    "Excalidraw/Drawing 2026-09-11 22.21.12.excalidraw.md",
-    "MCB-7 RCA.md",
-    "Linux.md",
     "Untitled.base",
     "Excalidraw",
     "Untitled.canvas",

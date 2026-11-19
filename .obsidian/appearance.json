@@ -1,4 +1,5 @@
 {
   "interfaceFontFamily": "Inter",
-  "textFontFamily": "Arial"
+  "textFontFamily": "Arial",
+  "showRibbon": true
 }

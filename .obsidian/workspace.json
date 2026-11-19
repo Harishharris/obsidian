@@ -8,15 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "72c3b3c2da53fe67",
+            "id": "e3522145cc4bf61a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.15.1"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.15.1"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -199,8 +197,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "72c3b3c2da53fe67",
+  "active": "b983a29351bdcc11",
   "lastOpenFiles": [
+    "System Design/Rate Limiter.md",
     "LLD/How to approach LLD Problem.md",
     "System Design/Dropbox/Dropbox.excalidraw.md",
     "LLD/ParkingLot.md",
@@ -208,7 +207,6 @@
     "Amazon LPs.md",
     "Schedule.md",
     "Work/SOTI ONE APPS.md",
-    "System Design/Rate Limiter.md",
     "Work/Untitled.md",
     "System Design/Dropbox/Dropbox.md",
     "Work/Testing.md",
